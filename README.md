@@ -1,6 +1,6 @@
 ## Hi there, I'm Josh!👋
 
-As a Data Analytics & Engineering Consultant at The Information Lab US, I'm currently in training to master tools like Tableau and SQL and learn new skills in Alteryx, Snowflake, databricks, and dbt to deliver clear and accurate data solutions and future clients across varying industries. 
+As a Data Analytics & Engineering Consultant at The Information Lab US, I'm currently in training to master tools like Tableau and SQL and learn new skills in Alteryx, Snowflake, databricks, and dbt to deliver clear and accurate data solutions to future clients across varying industries. 
 
 I earned my undergraduate degree in Environmental Economics at Binghamton University, where I combined my passion for sustainability with my quantitative interest while using tools like Python and R. I continued my studies at Binghamton to earn an MBA in Business Analytics, learning how to apply data analytics to business contexts and expanding my technical skill set in SQL and Tableau.
 
